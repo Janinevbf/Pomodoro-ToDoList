@@ -14,7 +14,7 @@
 
 - Validação do input (não permite tarefas vazias)
 
-##Tecnologias utilizadas
+#Tecnologias utilizadas
 
 - React
 - TypeScript
